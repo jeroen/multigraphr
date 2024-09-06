@@ -3,8 +3,8 @@ Title: Probability Models and Statistical Analysis of Random Multigraphs
 Version: 0.2.0
 Authors@R: 
     c(
-        person("Termeh","Shafie",,"termeh.shafie@uni-konstanz.de",role = c("aut", "cre")),
-           comment = c(ORCID = "0000-0002-8419-8477")
+        person("Termeh","Shafie",,"termeh.shafie@uni-konstanz.de",role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-8419-8477")),
         person("David", "Schoch", , "david@schochastics.net", role = c("ctb"),
            comment = c(ORCID = "0000-0003-2952-4812"))
         )
